@@ -9,8 +9,8 @@ Why do we ask this
 
 
 
-What 
-----
+What:
+-----
 
 
 
@@ -21,8 +21,17 @@ What to achieve:
 - Code should be annotated in English where needed
 
 
-Requirements
-------------
+- Commit the code to a new Github repository
+- Invite dannydewit to the Github repository for code review
+
+- Deploy to Github Pages 
+
+- Send us the url of the deployed app/site to us 
+
+
+
+Requirements:
+-------------
 
 - React
 - Bootstrap (optional)
